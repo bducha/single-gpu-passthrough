@@ -6,8 +6,11 @@ This is intended to be notes for me on how I achieved single GPU passthrough to 
 ## Host configuration
 
 Motherboard : Gigabyte B450m DS3H
+
 CPU : Ryzen 3600
+
 GPU : Nvidia GTX 1070
+
 OS : Ubuntu 20.04 (5.4.0 kernel)
 
 ## Procedure
